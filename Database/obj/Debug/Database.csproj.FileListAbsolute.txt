@@ -1,0 +1,10 @@
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\bin\Debug\Database.exe.config
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\bin\Debug\knigi.accdb
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\bin\Debug\Database.exe
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\bin\Debug\Database.pdb
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\obj\Debug\Database.Form1.resources
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\obj\Debug\Database.Properties.Resources.resources
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\obj\Debug\Database.exe
+c:\users\mozgg\documents\visual studio 2013\Projects\Database\Database\obj\Debug\Database.pdb
