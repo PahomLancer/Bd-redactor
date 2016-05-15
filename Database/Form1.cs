@@ -34,6 +34,12 @@ namespace Database
             автор_книгиTableAdapter.Update(knigiDataSet);
             авторыTableAdapter.Update(knigiDataSet);
             автор_книгиTableAdapter.Update(knigiDataSet);
+            //if (saveFileDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK &&
+            //   saveFileDialog1.FileName.Length > 0)
+            //{
+            //    richTextBox1.SaveFile(saveFileDialog1.FileName);
+            //    this.Text = saveFileDialog1.FileName;
+            //}
         }
 
         private void button2_Click(object sender, EventArgs e)
